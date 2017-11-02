@@ -1,0 +1,59 @@
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\bin\Debug\Card Game.exe.config
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\bin\Debug\Card Game.exe
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\bin\Debug\Card Game.pdb
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game.csprojResolveAssemblyReference.cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\MainWindow.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\App.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game_MarkupCompile.cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game_MarkupCompile.lref
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\MainWindow.baml
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game.g.resources
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game.csproj.GenerateResource.Cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game.exe
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\Card Game.pdb
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\ChooseClass.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\ChooseClass.baml
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\TitleWindow.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\TitleWindow.baml
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\BattleWindow.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Card Game\Card Game\obj\Debug\BattleWindow.baml
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game.csprojResolveAssemblyReference.cache
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\BattleWindow.g.cs
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\ChooseClass.g.cs
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\MainWindow.g.cs
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\TitleWindow.g.cs
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\App.g.cs
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game_MarkupCompile.cache
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game_MarkupCompile.lref
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game.exe
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game.pdb
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\bin\Debug\Card Game.exe.config
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\bin\Debug\Card Game.exe
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\bin\Debug\Card Game.pdb
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\BattleWindow.baml
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\ChooseClass.baml
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\MainWindow.baml
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\TitleWindow.baml
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game.g.resources
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\Taylor Anderson\Desktop\Card Game 2.0\Card Game\obj\Debug\Card Game.csproj.GenerateResource.Cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\bin\Debug\Card Game.exe.config
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\bin\Debug\Card Game.exe
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\bin\Debug\Card Game.pdb
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game.csprojResolveAssemblyReference.cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\ChooseClass.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\MainWindow.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\App.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game_MarkupCompile.cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game_MarkupCompile.lref
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\ChooseClass.baml
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\MainWindow.baml
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game.g.resources
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game.csproj.GenerateResource.Cache
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game.exe
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\Card Game.pdb
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\BattleWindow.g.cs
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\BattleWindow.baml
+C:\Users\Taylor Anderson\OneDrive - Swinburne University\Documents\Cert IV IT\Semester 2\CL-DEVOPS001\Offshore Assignment\Second Design\Card Game 2.0\Card Game\obj\Debug\TitleWindow.g.cs

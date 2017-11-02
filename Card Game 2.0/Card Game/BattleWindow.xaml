@@ -1,0 +1,55 @@
+﻿<Page x:Class="Card_Game.ChooseClass"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Card_Game"
+        mc:Ignorable="d"
+        Title="Mega Card Game 2000 - Choose Class" Height="340" Width="640" Background="DarkGray">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+
+        </Grid.RowDefinitions>
+
+        <Label x:Name="lblBattle" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24">
+            Battle Phase
+        </Label>
+
+        <Image Grid.Row="1" Grid.Column="2" Source="Resources/Harpie.png"/>
+        <Image Grid.Row="1" Grid.Column="0" Source="Resources/Thief.png"/>
+
+        <StackPanel x:Name="stkPlayer" Grid.Row="2">
+            <ProgressBar Value="40" Maximum="50" Height="15" Margin="10"/>
+            <TextBlock x:Name="txtblkThief" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">
+                Thief <LineBreak /> Maximum Health: 50 <LineBreak /> Normal Attack: 10 <LineBreak /> Special Attack: BackStab <LineBreak />
+            </TextBlock>
+        </StackPanel>
+
+        <StackPanel x:Name="stkAttack" Grid.Column="1" Grid.Row="1" VerticalAlignment="Bottom">
+            <ListBox x:Name="lstAttack" Grid.Column="1" Grid.Row="1" Margin="10" >
+                Select Attack
+            </ListBox>
+            <Button Margin="10" Background="DeepSkyBlue">
+                Attack
+            </Button>
+        </StackPanel>
+
+
+
+        <StackPanel x:Name="stkEnemy" Grid.Row="2" Grid.Column="2">
+            <ProgressBar Value="20" Maximum="50" Height="15" Margin="10"/>
+            <TextBlock x:Name="txtblkEnemy" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">
+                Harpie <LineBreak /> Maximum Health: 50 <LineBreak /> Normal Attack: 10
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>
